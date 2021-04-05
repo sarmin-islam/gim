@@ -1,0 +1,368 @@
+/*extra small device*/
+@media(max-width:575.98px){
+    .navbar .navbar-brand {
+	position: static;
+        padding: 0;
+        transform: skewX(0deg);
+        top: 0;
+        
+}
+    .navbar .navbar-brand{
+        transform: skewX(0deg);
+    }
+    .navbar-toggler {
+	border-color: #fff !important;
+        margin-right: 15px;
+}
+    .navbar-toggler span{
+        color:#fff;
+    }
+    .navbar-nav{
+        background: var(--mcol);
+        text-align: center;
+    }
+    #banner .banner-iteam {
+	padding-top: 150px;
+	padding-bottom: 111px;
+}
+    #banner .banner-text h3:before{
+	display: none;
+}
+   #banner .banner-text h3 {
+	font-size: 25px;
+}
+      #banner .banner-text h1 {
+	font-size: 46px;
+}
+     #banner .banner-text h3:after{
+	display: none;
+}
+     #banner .banner-text h1:before{
+	display: none;
+}
+     #banner .banner-text h1:after{
+	display: none;
+}
+ #banner .banner-text p:before{
+	display: none;
+}
+     #banner .banner-text p:after{
+	display: none;
+} 
+    #about {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+ #about .video {
+	margin-top: 30px
+}   
+ #team {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}   
+  #testimonial {
+	padding-bottom: 50px;
+} 
+    .text-center {
+	margin-top: 30px;
+}
+    #membership {
+	padding-bottom: 50px;
+}
+    #classes {
+	padding-bottom: 50px;
+}
+    #classes .class-menu .nav-link {
+
+	width: 263px;
+	text-align: center;
+}
+    #classes .class-iteam ul li {
+	width: 48%;
+}
+    footer .footer-logo {
+	text-align: center;
+}
+    footer .copywrite {
+	text-align: center;
+}
+    .container {
+	text-align: center;
+}
+    .footer-contact{
+        text-align: center;
+    } 
+    .footer-social{
+       text-align: center; 
+    }
+    .get social{
+        text-align: center;
+    }
+    
+}
+/*extra small device*/
+/* small device*/
+@media(min-width: 576px) and (max-width:767.98px){
+    .navbar .navbar-brand {
+	position: static;
+        padding: 0;
+        transform: skewX(0deg);
+        top: 0;
+        
+}
+    .navbar .navbar-brand{
+        transform: skewX(0deg);
+    }
+    .navbar-toggler {
+	border-color: #fff !important;
+        margin-right: 15px;
+}
+    .navbar-toggler span{
+        color:#fff;
+    }
+    .navbar-nav{
+        background: #380fc1;
+        text-align: center;
+    }
+    #banner .banner-iteam {
+	padding-top: 150px;
+	padding-bottom: 111px;
+}
+    #banner .banner-text h3:before{
+	display: none;
+}
+   #banner .banner-text h3 {
+	font-size: 25px;
+}
+      #banner .banner-text h1 {
+	font-size: 46px;
+}
+     #banner .banner-text h3:after{
+	display: none;
+}
+     #banner .banner-text h1:before{
+	display: none;
+}
+     #banner .banner-text h1:after{
+	display: none;
+}
+ #banner .banner-text p:before{
+	display: none;
+}
+     #banner .banner-text p:after{
+	display: none;
+} 
+    #about {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+ #about .video {
+	margin-top: 30px
+}   
+ #team {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}   
+  #testimonial {
+	padding-bottom: 50px;
+} 
+    .text-center {
+	margin-top: 30px;
+}
+    #membership {
+	padding-bottom: 50px;
+}
+    #classes {
+	padding-bottom: 50px;
+}
+    #classes .class-menu .nav-link {
+
+	width: 247px;
+}
+    #classes .class-iteam ul li {
+	width: 48%;
+}
+    footer .footer-logo {
+	text-align: center;
+}
+    footer .copywrite {
+	text-align: center;
+}
+    #brand{
+       margin-bottom: 50px; 
+    }
+    .container {
+	text-align: center;
+}
+    .footer-contact{
+        text-align: center;
+    } 
+    .footer-social{
+       text-align: center; 
+    }
+    .get social{
+        text-align: center;
+    }
+}
+/*small device*/
+/* medium device*/
+@media(min-width: 768px) and (max-width:991.98px){
+  .navbar .navbar-brand {
+	padding: 10px 15px;
+	background: #323232;
+	transform: skewX(-30deg);
+	position: static;
+}
+    .navbar-toggler {
+        border-color: #fff !important;
+        margin-right: 15px;
+
+    }
+    .navbar-toggler span{
+        color:#fff;
+    }
+    .navbar-nav{
+        background: #e616a6;
+        text-align: center;
+    }
+    #banner .banner-iteam {
+	padding-top: 150px;
+	padding-bottom: 111px;
+}
+    #banner .banner-text h3:before{
+	display: none;
+}
+   #banner .banner-text h3 {
+	font-size: 30px;
+}
+      #banner .banner-text h1 {
+	font-size: 56px;
+}
+     #banner .banner-text h3:after{
+	display: none;
+}
+     #banner .banner-text h1:before{
+	display: none;
+}
+     #banner .banner-text h1:after{
+	display: none;
+}
+ #banner .banner-text p:before{
+	display: none;
+}
+     #banner .banner-text p:after{
+	display: none;
+} 
+    #about {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+ #about .video {
+	margin-top: 30px
+}   
+ #team {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}   
+  #testimonial {
+	padding-bottom: 50px;
+} 
+    .text-center {
+	margin-top: 30px;
+}
+    #membership {
+	padding-bottom: 50px;
+}
+    #classes {
+	padding-bottom: 50px;
+}
+    #classes .class-menu .nav-link {
+
+	width: 230px;
+}
+    #classes .class-iteam ul li {
+	width: 48%;
+}
+    footer .footer-logo {
+	text-align: center;
+}
+    footer .copywrite {
+	text-align: center;
+}
+    #brand{
+       margin-bottom: 50px; 
+    }
+    .container {
+	text-align: center;
+}
+    .footer-contact{
+        text-align: center;
+    } 
+    .footer-social{
+       text-align: center; 
+    }
+    .get social{
+        text-align: center;
+    }
+}
+/*medium device*/
+/* large device*/
+@media(min-width: 992px) and (max-width:1199.98px){
+  .navbar .navbar-brand {
+	padding: 10px 15px;
+	background: #323232;
+	transform: skewX(-30deg);
+	position: static;
+}
+    .navbar-toggler {
+        border-color: #fff !important;
+        margin-right: 15px;
+
+    }
+    .navbar-toggler span{
+        color:#fff;
+    }
+    .navbar-nav{
+        background: tarnsparent;
+        text-align: center;
+    }
+     #banner .banner-text h3:before{
+	display: none;
+}
+   #banner .banner-text h3 {
+	font-size: 25px;
+}
+      #banner .banner-text h1 {
+	font-size: 46px;
+}
+     #banner .banner-text h3:after{
+	display: none;
+}
+     #banner .banner-text h1:before{
+	display: none;
+}
+     #banner .banner-text h1:after{
+	display: none;
+}
+ #banner .banner-text p:before{
+	display: none;
+}
+     #banner .banner-text p:after{
+	display: none;
+} 
+   
+    #classes {
+	padding-bottom: 50px;
+}
+    #classes .class-menu .nav-link {
+
+	width: 150px;
+}
+    #classes .class-iteam ul li {
+	width: 18%;
+}
+    #brand{
+       margin-bottom: 80px; 
+    }
+}
+/*large device*/
